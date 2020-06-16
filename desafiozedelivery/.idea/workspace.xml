@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e712bd75-888a-4dd1-9f43-ceb8e045680b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Bau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Carrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/ChecklistPinPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Competitors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/ContactHunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/HunterAttendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Interests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/OrdemServico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/OrdemServicoHunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/RelatoriosRedelogConsultaOsAvanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/RelatoriosRedelogConsultaTerminaisOs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Technologies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/Model/Technology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/CancelamentoOSMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/CapturaAssinaturaMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ChecklistPinPadMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ConcorrenteMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ContatoMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DadosHunterConcorrentesMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DadosHunterContatoMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DadosHunterInteresseMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DetalhesOrdemServicoMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/EncerramentoMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/EvidenciasMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/HistoricoDeAtendimentoMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/HomeMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/LoginAFVCMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/SincronizarMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/TecnologiaMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/TermosAceiteMobilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/BaseWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DefinirOrdensServicoEliteWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DesativacaoDeTecnicosEmLoteWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesEventQueuePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesQueuesWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EventQueueWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/GeracaoOrdemDeServicoWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/HabilitarChecklistPINPADWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/InformacoesDeAtendimentoWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/InformacoesDeEnderecoWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/NovaTabelaDePara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/QueueWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/TabelasDeParaWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/TabelasDominiosWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/TipoDeServicoEAtendimentoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/utils/ApiUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/Desinstalação.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoBau/InstalacaoBau.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoBau/TrocaBau.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoElite/DesinstalacaoElite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoElite/InstalacaoElite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoElite/TrocaElite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoHunter/DesinstalacaoHunter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoHunter/InstalacaoHunter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoHunter/TrocaHunter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoMarAberto/DesinstalacaoMarAberto.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoMarAberto/InstalacaoMarAberto.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoMarAberto/TrocaMarAberto.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/Instalacao.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/LiberadaCentral.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/ShareDeBalcao.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/Troca.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/featureMobile.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/ChecklistPinpad.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/ControleDevices.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/InativacaoEmLote.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/InformacoesAtendimentoInstalacao.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/SalvarDadosOSEncerradaCancelada.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/SegmentoPV.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/TriggerElite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/ativos.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/fluxosAtendimentoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/commons/AppiumRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/commons/SeleniumRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/commons/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/commons/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/maximo/AtivosWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/maximo/BarraSuperiorMaximo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/maximo/ListaAtivosWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/maximo/ListaOrdemServicoWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/maximo/LoginMaximoWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/maximo/OrdemServicoWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/AdicionarSIMCardMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/AdicionarTerminaisEstocarTerminaisPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/AdicionarWelcomeKitMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/AnaliseDoaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/AnaliseDoaQualOProblemaDoTerminalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ConfirmarSeTerminalEhDoaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/CriarReversaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/CriarRomaneioMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DesejaAtrelarTecnicoMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DesejaReceberOSMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DigitarTerminalMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/DigiteCodigoDaNotaFiscal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/EscolherCdDestinoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/EstocarTerminaisPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/FotoMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/InserirSimCardMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/InserirTerminaisMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/InserirWelcomeKitMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/JustificativaMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/LeituraDaOSDeAvancoMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/LeituraDeTerminaisPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ListaOSEstocarTerminaisPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ListaTecnico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ListaTerminaisReversaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ListaTerminalRomaneioExpedicaoMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/OSDeAvancoMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ResumoRomaneio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/ReversaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/RomaneioExpedicaoMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/RomaneioPorTecnicoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/RomaneioTecnicoIndividualPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/mobile/TirarFotoDaEvidenciaMobilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ConfiguracoesAcoesSistemicasRomaneioPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ConfiguracoesPersonalizadasWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ConfiguracoesWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ConfiguracoesdeRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ConsultarConfiguracoesAcoesSistemicasRomaneioPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalheRomaneioComunidadeWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesDeContatoWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesDeContatoWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesItemRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesOSWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesOSWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/DetalhesRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EdicaoOSRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarConfiguracoesAcoesSistemicasRomaneioPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarConfiguracoesDeRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarOSPropriedadeWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarOSPropriedadeWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarOSWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarOSWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/EditarRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ExtracaoDeRelatoriosPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/HomeComunidadeWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/HomeComunidadeWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/HomeWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/HomeWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/LoginSalesForceWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/LoginSalesForceWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/NovaConfiguracaoAcoesSistemicasRomaneioPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/NovoItemRomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ResultadoPesquisaWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/ResultadoPesquisaWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/RomaneioComunidadeWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/RomaneioWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/RoteirizacaoManualWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/RoteirizacaoManualWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/TodasGuiasWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/pages/web/TodasGuiasWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/utils/AppiumUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/utils/AppiumUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/utils/SeleniumUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/java/utils/SeleniumUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/API/MaximoAPITest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/API/RelatoriosRedelogApiTest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/massa/Roteirizacao.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/massa/Roteirizacao.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoAnaliseDoa/AnaliseDoa.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoRetornoDeCampo/RetornoDeCampoEnvioDeDados.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoReversa/fluxoReversa.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/NovoFluxoEstocarTerminal/EstocarTerminal.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/NovoFluxoReceberOSAvanco/NovoFluxoReceberOSAvanco.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/NovoFluxoRomaneio/FluxoRomaneio.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/NovoFluxoRomaneio/NovoFluxoRomaneio.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/testeMaximo/TesteMaximo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/relatorios/ExtrairRelatorioForcaCampo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/AcaoEJustificativa.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/AlterarStatusInternoOSSalesforce.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/ConferenciaDeTerminais.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/mobile/FluxoBau/DesinstalacaoBau.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/ConferenciaDoRetornoDeCampo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/ConferenciaOSCanceladasReagendadas.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/ConferirOSEncerrada.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/ConfiguracoesDeRomaneio.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/RomaneioSeparacaoRecursosAtendimento.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/romaneio/RoteirizacaoManual.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/feature/web/RoteirizacaoManual.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/api.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/mobile.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/mobile.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/web.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/main/resources/properties/web.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/API/MaximoAPITestStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/API/RelatoriosRedelogApiStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/TesteMaximo/TesteMaximo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/massa/RoteirizacaoSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/AnaliseDoaStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/ExploratorioRomaneioStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/FluxoEstocarTerminaisStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/FluxoReversaStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/FluxoRomaneio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/NovoFluxoReceberOSAvancoStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/mobile/RetornoDecampoEnvioDeDadosStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/AcaoEJustificativaStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/AlterarStatusInternoOSSalesforceStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/ConferenciaDeTerminaisStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/ConferenciaDoRetornoDeCampoStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/ConferenciaOSCanceladasReagendadasStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/ConferirOSEncerradaStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/ConfiguracoesDeRomaneioStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/ExtrairRelatorioStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/RetornoOSInstalacaoEncerradastep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/RomaneioSeparacaoRecursosAtendimentoStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/gluecode/web/RoteirizacaoManualStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forca-campo-regressivo/src/test/java/runner/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestao-de-base/Gestao-De-Base.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../gestao-de-base" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/original-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dM5f6wNCgsuzbZwjUR61nG5jX0" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/APK" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: api">
+    <configuration name="Feature: api" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/api.feature" />
+      <option name="GLUE" value="hooks gluecode" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="desafiozedelivery" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/login.feature" />
+      <option name="GLUE" value="hooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="desafiozedelivery" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Consultar clima atual" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/api.feature" />
+      <option name="GLUE" value="hooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="desafiozedelivery" />
+      <option name="NAME_FILTER" value="^Consultar clima atual$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Consultar clima atual$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Consultar clima atual" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="desafiozedelivery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: api" />
+        <item itemvalue="Cucumber java.Scenario: Consultar clima atual" />
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="Cucumber java.Feature: login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e712bd75-888a-4dd1-9f43-ceb8e045680b" name="Default Changelist" comment="" />
+      <created>1592222221409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592222221409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
